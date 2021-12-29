@@ -32,7 +32,7 @@ De link naar bovenstaande PDF, verwijst inmiddels niet meer naar een PDF, maar w
 
 Kortom, blijkbaar waren de TimingPoints ooit onderdeel van een product dat MYLAPS aanbood, maar is dit product inmiddels niet meer in de markt.
 
-## Het einde van Timepoints
+## Het einde van TimePoints
 
 Het lijkt er dus sterk op dat de TimePoints zoals ze ooit bedacht zijn niet meer gebruikt kunnen worden. Een alternatief wordt niet geboden op de site van MYLAPS.
 
