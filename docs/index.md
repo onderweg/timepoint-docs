@@ -4,6 +4,8 @@
 
 Op het lint, een 8 kilometer lange ring rondom het [Maximapark](https://maximapark.nl/) in Utrecht voor fietsers en (hard)lopers, kan je om de paar kilometer zogenaamde *TimePoints* vinden.
 
+![Het Lint, Leidsche Rijn](img/lint.jpg)
+
 Zo'n TimePoint is een gemarkeerde baan op het asfalt. In deze baan is apparatuur aangebracht voor tijdregistratie voor hardlopers. Deze apparatuur kan bij passage een chip lezen die bevestigd is aan bijvoorbeeld je hardloopschoen. Hiermee kunnen automatisch doorkomsttijden geregistreerd worden. 
 
 De uitleesapparatuur en bijbehorende chips zijn ontwikkeld door [MYLAPS](https://www.mylaps.com/nl/). Deze fabrikant is o.a. bekend van tijdregistratie bij hardloopevents. De meeste hardlopers zullen die ooit aan een evenement hebben meegedaan zullen dan ook bekend zijn met de chips van MYLAPS.
