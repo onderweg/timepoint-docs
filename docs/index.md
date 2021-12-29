@@ -34,12 +34,12 @@ Het lijkt er dus sterk op dat de TimePoints niet meer gebruikt kunnen worden.
 
 Maar betekent het dan dat de meetpunten en markeringen op het asfalt volkomen nutteloos zijn geworden?
 
-Ik zou het niet met zekerheid kunnen zeggen. Fascinerend is het wel, deze infrastructuur voor sporters die ooit enthousiast is aangelegd aangekondigd, en daarna totaal vergeten lijkt te zijn.
+Waarschijnlijk dus, maar ik zou het niet met zekerheid kunnen zeggen. Fascinerend is het wel, deze infrastructuur voor hardlopers in het grooste park van Utrecht, ooit enthousiast aangelegd en aangekondigd, om daarna langzaam in vergetelheid te verdwijnen.
 
-## Meer info welkom
+!!! note
 
-Omdat ik zelf bijna geen informatie kon vinden, maar anderen misschien met dezelfde vraag zitten, heb deze notitie als publieke pagina beschikbaar gemaakt.
+    Omdat ik zelf bijna geen informatie kon vinden, maar anderen misschien met dezelfde vraag zitten, heb deze naslag gepubliceerd.
 
-Als je meer informatie hebt over het oorspronkelijke plan, de huidige staat, of toekomst van deze TimingPoints, laat het gerust weten:
+    Als je meer informatie hebt over het oorspronkelijke plan, de huidige staat, of toekomst van deze TimingPoints, laat het gerust weten:
 
-[Start onderwerp in Github Discussions](https://github.com/onderweg/timepoint-docs/discussions)
+    [Start onderwerp in Github Discussions](https://github.com/onderweg/timepoint-docs/discussions)

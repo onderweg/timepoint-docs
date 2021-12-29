@@ -2,3 +2,6 @@ site_name: Timepoints in het Maximapark
 theme: readthedocs
 nav:
     - Home: index.md
+
+markdown_extensions:
+    - admonition
