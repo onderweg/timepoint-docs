@@ -16,7 +16,7 @@ Dankzij de TimePoints zou het dus mogelijk zijn om je doorkomsttijden op het Lin
 
 *Boven: Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"*
 
-## De huidige situatie
+## Hoe werken TimePoints?
 
 Wat moet je eigenlijk dan doen om gebruik te kunnen maken van deze TimePoints, en werken ze nog wel? Dat is een vraag die ik al jaren heb en waar ik af en toe aan denk als ik weer eens zo'n TimePoint passeer als ik hardloop op het lint.
 
@@ -31,6 +31,8 @@ De link naar bovenstaande PDF, verwijst inmiddels niet meer naar een PDF, maar w
 ![Mylaps Timepoint service offline](img/mylaps_offline.png)
 
 Kortom, blijkbaar waren de TimingPoints ooit onderdeel van een product dat MYLAPS aanbood, maar is dit product inmiddels niet meer in de markt.
+
+## Het einde van Timepoints
 
 Het lijkt er dus sterk op dat de TimePoints zoals ze ooit bedacht zijn niet meer gebruikt kunnen worden. Een alternatief wordt niet geboden op de site van MYLAPS.
 
