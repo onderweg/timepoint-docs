@@ -14,7 +14,7 @@ Dankzij de TimePoints zou het dus mogelijk zijn om je doorkomsttijden op het Lin
 
 ![Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"](img/fb_screenshot.png)
 
-Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"
+*Boven: Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"*
 
 ## De huidige situatie
 
