@@ -10,7 +10,7 @@ De uitleesapparatuur en bijbehorende chips zijn ontwikkeld door [MYLAPS](https:/
 
 Dankzij de TimePoints zou het dus mogelijk zijn om je doorkomsttijden op het Lint te laten registreren. Althans, dat is zoals het ooit is opgezet, vanaf 2011 ongeveer:
 
-![Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"](Timepoints%20in%20het%20Maximapark%205c5e6a23a5bb4abd85c1b79c297f8012/Untitled.png)
+![Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"](img/fb_screenshot.png)
 
 Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"
 
@@ -22,7 +22,7 @@ Een korte zoektocht op Google naar een antwoord levert bijna niks op. Eén van w
 
 Eigenlijk geeft een link uit een andere Facebook bericht van Het Lint - uit 2012 - de enige duidelijke hint:
 
-![Untitled](Timepoints%20in%20het%20Maximapark%205c5e6a23a5bb4abd85c1b79c297f8012/Untitled%201.png)
+![Screenshot Facebook bericht PDF](img/fb_screenshot2.png)
 
 De link naar bovenstaande PDF, verwijst inmiddels niet maar naar een PDF, maar wordt doorverwezen naar: [https://www.mylaps.com/timepoint-service-offline/](https://www.mylaps.com/timepoint-service-offline/).
 
@@ -38,4 +38,6 @@ Ik zou het niet met zekerheid kunnen zeggen. Fascinerend is het wel, deze infras
 
 Omdat ik zelf bijna geen informatie kon vinden, maar anderen misschien met dezelfde vraag zitten, heb deze notitie als publieke pagina beschikbaar gemaakt.
 
-Als je meer informatie hebt over het oorspronkelijke plan, de huidige staat, of toekomst van deze TimingPoints, laat het gerust weten.
+Als je meer informatie hebt over het oorspronkelijke plan, de huidige staat, of toekomst van deze TimingPoints, laat het gerust weten:
+
+[Start onderwerp in Github Discussions](https://github.com/onderweg/timepoint-docs/discussions)
