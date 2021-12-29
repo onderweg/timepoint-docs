@@ -36,7 +36,7 @@ Maar betekent het dan dat de meetpunten en markeringen op het asfalt volkomen nu
 
 Waarschijnlijk dus, maar ik zou het niet met zekerheid kunnen zeggen. Fascinerend is het wel, deze infrastructuur voor hardlopers in het grooste park van Utrecht, ooit enthousiast aangelegd en aangekondigd, om daarna langzaam in vergetelheid te verdwijnen.
 
-!!! note
+!!! note "Meer informatie gevraagd"
 
     Omdat ik zelf bijna geen informatie kon vinden, maar anderen misschien met dezelfde vraag zitten, heb deze naslag gepubliceerd.
 
