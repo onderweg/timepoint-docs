@@ -32,11 +32,13 @@ De link naar bovenstaande PDF, verwijst inmiddels niet meer naar een PDF, maar w
 
 Kortom, blijkbaar waren de TimingPoints ooit onderdeel van een product dat MYLAPS aanbood, maar is dit product inmiddels niet meer in de markt.
 
-Het lijkt er dus sterk op dat de TimePoints niet meer gebruikt kunnen worden.
+Het lijkt er dus sterk op dat de TimePoints zoals ze ooit bedacht zijn niet meer gebruikt kunnen worden. Een alternatief wordt niet geboden op de site van MYLAPS.
 
 Maar betekent het dan dat de meetpunten en markeringen op het asfalt volkomen nutteloos zijn geworden?
 
 Waarschijnlijk dus, maar ik zou het niet met zekerheid kunnen zeggen. Fascinerend is het wel, deze infrastructuur voor hardlopers in het grooste park van Utrecht, ooit enthousiast aangelegd en aangekondigd, om daarna langzaam in vergetelheid te verdwijnen.
+
+Al blijft het passeren van een TimePoint bij het hardlopen af en toe zorgen voor een licht euforisch gevoel. Het voelt als het passeren van een finischlijn in een wedstrijdje over het Lint met jezelf. Ook al kijkt niemand mee, en zal je tijd onopgemerkt blijven.
 
 !!! note "Meer informatie gevraagd"
 
