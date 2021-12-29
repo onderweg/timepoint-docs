@@ -26,7 +26,9 @@ Eigenlijk geeft een link uit een andere Facebook bericht van Het Lint - uit 2012
 
 ![Screenshot Facebook bericht PDF](img/fb_screenshot2.png)
 
-De link naar bovenstaande PDF, verwijst inmiddels niet maar naar een PDF, maar wordt doorverwezen naar: [https://www.mylaps.com/timepoint-service-offline/](https://www.mylaps.com/timepoint-service-offline/).
+De link naar bovenstaande PDF, verwijst inmiddels niet meer naar een PDF, maar wordt doorverwezen naar [een pagina op mylaps.com](https://www.mylaps.com/timepoint-service-offline/) met de volgende tekst:
+
+![Mylaps Timepoint service offline](img/mylaps_offline.png)
 
 Kortom, blijkbaar waren de TimingPoints ooit onderdeel van een product dat MYLAPS aanbood, maar is dit product inmiddels niet meer in de markt.
 
