@@ -30,9 +30,9 @@ De link naar bovenstaande PDF, verwijst inmiddels niet meer naar een PDF, maar w
 
 ![Mylaps Timepoint service offline](img/mylaps_offline.png)
 
-Kortom, blijkbaar waren de TimingPoints ooit onderdeel van een product dat MYLAPS aanbood, maar is dit product inmiddels niet meer in de markt.
+Kortom, blijkbaar waren de TimePoints ooit onderdeel van een product dat MYLAPS aanbood, maar is dit product inmiddels niet meer in de markt.
 
-## Het einde van TimePoints
+## Het einde van TimePoints?
 
 Het lijkt er dus sterk op dat de TimePoints zoals ze ooit bedacht zijn niet meer gebruikt kunnen worden. Een alternatief wordt niet geboden op de site van MYLAPS.
 
@@ -46,6 +46,6 @@ Al blijft het passeren van een TimePoint bij het hardlopen af en toe zorgen voor
 
     Omdat ik zelf bijna geen informatie kon vinden, maar anderen misschien met dezelfde vraag zitten, heb deze naslag gepubliceerd.
 
-    Als je meer informatie hebt over het oorspronkelijke plan, de huidige staat, of toekomst van deze TimingPoints, laat het gerust weten:
+    Als je meer informatie hebt over het oorspronkelijke plan, de huidige staat, of toekomst van deze TimePoints, laat het gerust weten:
 
     [Start onderwerp in Github Discussions](https://github.com/onderweg/timepoint-docs/discussions)
