@@ -2,15 +2,15 @@
 
 ## Wat is een TimePoint?
 
-Op het lint, een 8 kilometer lange ring rondom het [Maximapark](https://maximapark.nl/) in Utrecht voor fietsers en (hard)lopers, kan je om de paar kilometer zogenaamde *TimePoints* vinden.
+Op Het Lint, een 8 kilometer lange ring rondom het [Maximapark](https://maximapark.nl/) in Utrecht voor fietsers en (hard)lopers, kan je om de paar kilometer zogenaamde *TimePoints* vinden.
 
 ![Het Lint, Leidsche Rijn](img/lint.jpg)
 
 Zo'n TimePoint is een gemarkeerde baan op het asfalt. In deze baan is apparatuur aangebracht voor tijdregistratie voor hardlopers. Deze apparatuur kan bij passage een chip lezen die bevestigd is aan bijvoorbeeld je hardloopschoen. Hiermee kunnen automatisch doorkomsttijden geregistreerd worden. 
 
-De uitleesapparatuur en bijbehorende chips zijn ontwikkeld door [MYLAPS](https://www.mylaps.com/nl/). Deze fabrikant is o.a. bekend van tijdregistratie bij hardloopevents. De meeste hardlopers zullen die ooit aan een evenement hebben meegedaan zullen dan ook bekend zijn met de chips van MYLAPS.
+De uitleesapparatuur en bijbehorende chips zijn ontwikkeld door [MYLAPS](https://www.mylaps.com/nl/). Deze fabrikant is o.a. bekend van tijdregistratie bij hardloopevents. De meeste hardlopers die ooit aan een evenement hebben meegedaan zullen dan ook bekend zijn met de chips van MYLAPS.
 
-Dankzij de TimePoints zou het dus mogelijk zijn om je doorkomsttijden op het Lint te laten registreren. Althans, dat is zoals het ooit is opgezet, vanaf 2011 ongeveer:
+Dankzij de TimePoints zou het dus mogelijk zijn om je doorkomsttijden op het Lint automatisch te registreren. Althans, dat is zoals het ooit, vanaf 2021 ongeveer, is opgezet:
 
 ![Screenshot Facebook bericht van account "[Het Lint](https://www.facebook.com/Het-Lint-M%C3%A1ximapark-330874426926136/)"](img/fb_screenshot.png)
 
@@ -20,7 +20,7 @@ Dankzij de TimePoints zou het dus mogelijk zijn om je doorkomsttijden op het Lin
 
 Wat moet je eigenlijk dan doen om gebruik te kunnen maken van deze TimePoints, en werken ze nog wel? Dat is een vraag die ik al jaren heb en waar ik af en toe aan denk als ik weer eens zo'n TimePoint passeer als ik hardloop op het lint.
 
-Een korte zoektocht op Google naar een antwoord levert bijna niks op. Eén van weinige dingen die wel bovenkomt is bovenstaand Facebook bericht uit 2011. Ook op de website van MYLAPS is verder geen (actuele) informatie te vinden. Wat is dan de huidige status van deze meetpunten? 
+Een korte zoektocht op Google naar een antwoord levert helaas bijna niks op. Eén van weinige dingen die wel bovenkomt is bovenstaand Facebook bericht uit 2011. Ook op de website van MYLAPS is verder geen (actuele) informatie te vinden. Wat is dan de huidige status van deze meetpunten? 
 
 Eigenlijk geeft een link uit een andere Facebook bericht van Het Lint - uit 2012 - de enige duidelijke hint:
 
