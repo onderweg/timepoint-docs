@@ -1,5 +1,7 @@
 site_name: Timepoints in het Maximapark
-theme: readthedocs
+theme: 
+    name: readthedocs
+    custom_dir: overrides
 nav:
     - Naslag: index.md
 
